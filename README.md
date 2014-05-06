@@ -2,7 +2,7 @@
 
 _iso-8859-4_ is a robust JavaScript implementation of [the iso-8859-4 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#iso-8859-4).
 
-This encoding is known under the following names: csisolatin4, iso-8859-4, iso-ir-110, iso8859-4, iso88594, iso_8859-4, iso_8859-4:1988, l4, latin4, and latin4.
+This encoding is known under the following names: csisolatin4, iso-8859-4, iso-ir-110, iso8859-4, iso88594, iso_8859-4, iso_8859-4:1988, l4, and latin4.
 
 ## Installation
 
