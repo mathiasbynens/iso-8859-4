@@ -35,7 +35,7 @@
 
 	// explicitly call `QUnit.module()` instead of `module()`
 	// in case we are in a CLI environment
-	QUnit.module('iso88594');
+	QUnit.module('iso-8859-4');
 
 	test('iso88594.encode', function() {
 		equal(
